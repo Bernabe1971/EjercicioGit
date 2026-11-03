@@ -6,7 +6,7 @@ git clone: Clona un repositorio desde el remoto hacia el local
 
 git pull: Obtiene los cambios realizados de la version el repositorio hacia el remoto
 
-git checkout: 
+git checkout: cambia dentro de las diferentes ramas que existen
 
 git log: Genera el listado de cambio o veriones generadas de los commit realizados
 
